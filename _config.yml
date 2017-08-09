@@ -79,3 +79,4 @@ theme: clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: heroku
+  repo: https://git.heroku.com/ale-dot-com.git
