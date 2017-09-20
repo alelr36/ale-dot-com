@@ -422,6 +422,7 @@ export default function* rootSaga() {
 // this code can grow very quickly so there may be a better organization than the present one...
 ```
 ```javascript
+// src/sagas/products.js
 import { takeLatest } from 'redux-saga'
 import { select, put } from 'redux-saga/effects'
 import { selectProduct } from 'actions/products'

@@ -4,7 +4,7 @@ db.json
 debug.log
 public/
 .deploy/
-.deploy_heroku
+.deploy_heroku/
 themes/
 
 # Logs
