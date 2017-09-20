@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ale Arce - Javascript Engineer
-subtitle: Ale
-description: Test Description
-summary: This is a simple text
+title: Ale - Front End Engineer
+subtitle: Web Development
+description: Web Development
+summary: Development for the Web
 author: Ale Arce
 language:
 timezone:
+cover: http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/img/home-bg.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://alearce.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
